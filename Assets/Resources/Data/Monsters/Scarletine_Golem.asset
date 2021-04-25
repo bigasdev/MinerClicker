@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f0f03c62742d65448752f38652b960c, type: 3}
+  m_Name: Scarletine_Golem
+  m_EditorClassIdentifier: 
+  monsterName: Redline Golem
+  monsterHealth: 500
+  monsterDrop: 30
+  monsterSprite: {fileID: 5364265973111914673, guid: 10697aa1ecb4d784fa190901be84e21f,
+    type: 3}
+  monsterAttackSprite: {fileID: 3648034546223113679, guid: 10697aa1ecb4d784fa190901be84e21f,
+    type: 3}

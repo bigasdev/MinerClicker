@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f0f03c62742d65448752f38652b960c, type: 3}
+  m_Name: Adamorinal_Crab
+  m_EditorClassIdentifier: 
+  monsterName: Blevide Crab
+  monsterHealth: 1000
+  monsterDrop: 40
+  monsterSprite: {fileID: -6577167406303223293, guid: 0e5ee484d2dc52c41852f4d0e5665011,
+    type: 3}
+  monsterAttackSprite: {fileID: -6577167406303223293, guid: 0e5ee484d2dc52c41852f4d0e5665011,
+    type: 3}
